@@ -9,7 +9,7 @@
   "repository": {
     "url": "https://github.com/adi518/react-gallery"
   },
-  "homepage": "https://adi518.github.io/react-gallery",
+  "homepage": "https://uvacoder.github.io/react-gallery/",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "classnames": "^2.2.6",
